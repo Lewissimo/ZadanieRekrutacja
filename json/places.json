@@ -1,0 +1,99 @@
+{
+    "PLACES":[
+        {
+            "name": "EBACE",
+            "residence": {"land":"Switzerland", "city": "Geneva"},
+            "coordinates": [13, 69]
+        },
+        {
+            "name": "NBAA",
+            "residence": {"land":"USA", "city": "Washington"},
+            "coordinates": [21, 35]
+        },
+        {
+            "name": "Medica",
+            "residence": {"land":"USA", "city": "Bedford"},
+            "coordinates": [17, 39]
+        },
+        {
+            "name": "Orgatec",
+            "residence": {"land":"Germany", "city": "Cologne"},
+            "coordinates": [13, 73]
+        },
+        {
+            "name": "IDS",
+            "residence": {"land":"New Delphi", "city": "India"},
+            "coordinates": [27, 104]
+        },
+        {
+            "name": "Domotex",
+            "residence": {"land":"Hanower", "city": "Germany"},
+            "coordinates": [13, 74]
+        },
+        {
+            "name": "Mosbuild",
+            "residence": {"land":"Moscow", "city": "Russia"},
+            "coordinates":  [11, 84]
+        },
+        {
+            "name": "EBACE",
+            "residence": {"land":"Switzerland", "city": "Geneva"},
+            "coordinates": [13, 69]
+        },
+        {
+            "name": "NBAA",
+            "residence": {"land":"USA", "city": "Washington"},
+            "coordinates": [21, 35]
+        },
+        {
+            "name": "Medica",
+            "residence": {"land":"USA", "city": "Bedford"},
+            "coordinates": [17, 39]
+        },
+        {
+            "name": "Orgatec",
+            "residence": {"land":"Germany", "city": "Cologne"},
+            "coordinates": [13, 73]
+        },
+        {
+            "name": "IDS",
+            "residence": {"land":"New Delphi", "city": "India"},
+            "coordinates": [27, 104]
+        },
+        {
+            "name": "Domotex",
+            "residence": {"land":"Hanower", "city": "Germany"},
+            "coordinates": [13, 74]
+        },
+        {
+            "name": "Mosbuild",
+            "residence": {"land":"Moscow", "city": "Russia"},
+            "coordinates":  [11, 84]
+        },
+        {
+            "name": "Mosbuild",
+            "residence": {"land":"Moscow", "city": "Russia"},
+            "coordinates":  [11, 84]
+        },
+        {
+            "name": "BAU",
+            "residence": {"land":"Virginia", "city": "Quantico"},
+            "coordinates":  [19, 36]
+        },
+        {
+            "name": "Paris Air Show",
+            "residence": {"land":"France", "city": "Paris"},
+            "coordinates":  [15, 70]
+        },
+        {
+            "name": "Cersaie",
+            "residence": {"land":"Italy", "city": "Bologna"},
+            "coordinates":  [17, 74]
+        },
+        {
+            "name": "ISH",
+            "residence": {"land":"Wales", "city": "Newtown"},
+            "coordinates":  [13, 68]
+        }
+    ]
+}

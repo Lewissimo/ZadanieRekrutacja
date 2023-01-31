@@ -1,0 +1,32 @@
+@import "_variables.scss";
+@import "_fonts.scss";
+@import "_logo.scss";
+
+@import "_bg_map.scss";
+@import "_main_nav.scss";
+@import "_main_content.scss";
+
+@import "_mobile.scss";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: $font-color;
+  user-select: none;
+
+  scroll-behavior: smooth;
+}
+
+
+
+
+body{
+    font-family: "montserrat", sans-serif;
+    background-color: $background-color;
+    overflow: hidden;
+
+}
+
+
+

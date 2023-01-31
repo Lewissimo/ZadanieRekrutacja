@@ -1,0 +1,95 @@
+#main_content{
+    height: 80vh;
+    overflow-y: auto;
+    header{
+        transition: all .5s;
+        display: flex;
+        align-items: center;
+        flex: 2 2 auto;
+
+    }
+    
+    #bx{
+        flex: 1 1 auto;
+    }
+
+    #companies_box{
+
+        display: flex;
+
+
+        .companies_list{
+            flex: 1 1 auto;
+            padding: 0;
+            list-style: none;
+            min-width: 90px;
+            
+            li{
+                transition: all .2s;
+                margin-bottom: 5px;
+                cursor: pointer;
+                &:hover{
+                    color: black;
+                }
+            }
+        }
+    }
+
+        #description_box{
+            font-size: .9em;
+            line-height: 1.6em;
+            hyphens: auto;
+
+            div{
+                border: 2px solid white;
+                padding: 5%;
+
+                h5{
+                    margin-bottom: 17px;
+                }
+
+            }
+        }
+
+    
+    
+}
+
+#hint{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    z-index: 2;
+    ul{
+        margin: 0;
+        list-style: none;
+    }
+
+    li{
+        word-spacing: .3em;
+        position: relative;
+        padding: 4px;
+        &:last-child{
+            font-weight: 100;
+        }
+
+        &:first-child{
+            &::after{
+                content: "";
+                position: absolute;
+                bottom: 0;
+                left: 9px;
+                width: 170px;
+                height: 1px;
+                border: 1px solid white;
+            }
+        }
+
+    }
+}
+
+
+@media screen and (max-width: 576) {
+
+}

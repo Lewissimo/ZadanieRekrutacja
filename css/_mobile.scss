@@ -1,0 +1,49 @@
+@media screen and (max-width: 576px) {
+   
+    #main_content{
+        header{
+            height: 25vh;
+            justify-content: center;
+        }
+        #description_box{
+            div{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                padding: 10px;
+            }
+        }
+
+
+        #companies_box{
+            .companies_list{
+                &:first-child{
+                    display: none;
+                    
+                }
+            }
+        }
+    }
+
+    .navbar{
+        display: none;
+    }
+
+
+    #bg_map_box{
+        #map{
+            top: 10vh;
+        }
+        .dot{
+            font-size: 5px;
+            margin: 0;
+            margin-left: 2px;
+            margin-top: 2px;
+
+            
+        }
+    }
+
+
+
+}
